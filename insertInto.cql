@@ -1,0 +1,1 @@
+INSERT INTO bibliography (id, type, year, title, authors, pages, booktitle, journal, url, cites) VALUES ('series/cogtech/esilv420', 'Article', 2019, 'Data Science explained for Children', ['Corentin Dauvissat', 'Romain Caillon', 'Aron Bege'], {start: 20, end : 60}, 'Mickey Mouse into the Big Data World', {isbn : [] }, 'db/series/cogtech/364237376.html#esilv420', []);
